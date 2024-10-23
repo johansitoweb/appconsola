@@ -1,0 +1,15 @@
+C:\Users\08\source\repos\appconsola\appconsola\bin\Debug\net8.0\appconsola.exe
+C:\Users\08\source\repos\appconsola\appconsola\bin\Debug\net8.0\appconsola.deps.json
+C:\Users\08\source\repos\appconsola\appconsola\bin\Debug\net8.0\appconsola.runtimeconfig.json
+C:\Users\08\source\repos\appconsola\appconsola\bin\Debug\net8.0\appconsola.dll
+C:\Users\08\source\repos\appconsola\appconsola\bin\Debug\net8.0\appconsola.pdb
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.AssemblyInfoInputs.cache
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.AssemblyInfo.cs
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.csproj.CoreCompileInputs.cache
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.sourcelink.json
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.dll
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\refint\appconsola.dll
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.pdb
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\appconsola.genruntimeconfig.cache
+C:\Users\08\source\repos\appconsola\appconsola\obj\Debug\net8.0\ref\appconsola.dll
